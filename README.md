@@ -15,6 +15,7 @@ To get this project up and running, make sure you have the following installed o
 - Matplotlib
 - Keras
 - scikit-learn (optional, for evaluating performance)
+- OpenCV
 
 **Install dependencies with:**
 You can easily install all the dependencies by running the following command:
